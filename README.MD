@@ -1,1 +1,1 @@
-Download code, then run "python StringNormalizer.py". Input example inputs to see results.
+Download code, then run StringNormalizer.py in command line, and follow instructions. Input example inputs to see how they would be normalized.
