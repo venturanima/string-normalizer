@@ -1,0 +1,1 @@
+Download code, then run "python StringNormalizer.py". Input example inputs to see results.
