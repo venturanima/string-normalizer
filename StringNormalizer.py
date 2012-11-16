@@ -14,7 +14,7 @@ class StringNormalizer():
         splitString = filePath.split("/")
         tokenList = []
         for token in splitString:
-            print "tokenList: " + str(tokenList)
+            # print "tokenList: " + str(tokenList)
             if token == "..":
                 if len(tokenList) == 0:
                     return None
